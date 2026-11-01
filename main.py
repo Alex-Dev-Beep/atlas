@@ -247,6 +247,7 @@ def draw_interface():
             335,
             screen
         )
+        
 
         draw_text(
             f"Precipitation: {weather_data['precipitation']} mm",

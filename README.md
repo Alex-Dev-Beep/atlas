@@ -1,2 +1,2 @@
 ATLAS is a weather app, where you type in a city, and it will give you right away the city's weather.
-When you type a city, you get: the latitude, the longitude, the temperature, and the temperature that feels like.
+When you type a city, you get the temperature.
