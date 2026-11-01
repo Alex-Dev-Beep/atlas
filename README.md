@@ -1,1 +1,2 @@
-ATLAS is a city simulator, where you type in a city, and the model will predict weather, and more things.
+ATLAS is a weather app, where you type in a city, and it will give you right away the city's weather.
+When you type a city, you get: the latitude, the longitude, the temperature, and the temperature that feels like.
