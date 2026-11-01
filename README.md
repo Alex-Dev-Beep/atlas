@@ -1,3 +1,1 @@
-ATLAS is a city simulator, where you type in a city, and the model will predict weather (using a custom managed model), and more things. (Only available on linux for now)
-Run instructions:
-- Download and double click it
+ATLAS is a weather app, where you type in a city, and it will give you right away the city's weather.
