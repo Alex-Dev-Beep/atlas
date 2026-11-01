@@ -3,3 +3,4 @@ When you type a city, you get the temperature.
 Run steps:
 chmod +x main
 ./main
+The project has the full source code in python.
