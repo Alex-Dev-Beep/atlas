@@ -267,14 +267,14 @@ def draw_interface():
         )
 
         # History button
-        button_rect = draw_button(
-            "Show history",
-            font,
-            WHITE,
-            55,
-            415,
-            screen
-        )
+        #button_rect = draw_button(
+        #    "Show history",
+        #    font,6
+        #    WHITE,
+        #    55,
+        #    415,
+        #    screen
+        #)
 
     else:
 
@@ -345,4 +345,5 @@ while running:
 # --------------------------------------------------
 
 pygame.quit()
+
 sys.exit()
